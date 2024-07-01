@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+# Optional npm cache directory
+.npm
+
+# MacOS files
+.DS_Store
+
+# VS Code files
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
